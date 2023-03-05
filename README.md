@@ -5,7 +5,7 @@ A list of things I’ve done in the crypto and web3 space.
 
 ## Highlights
 
-1.  Built a multi-chain NFT platform called [Arthouse](https://art.atila.ca/), for deploying NFTs to any EVM-compatible chain ([github](https://github.com/atilatech/arthouse), [made a tutorial about how I built it](https://atila.ca/blog/tomiwa/how-to-build-a-multi-chain-nft-marketplace-on-ethereum-polygon-and-binance-smart-chain-using-solidity-react-hardhat-and-ethersjs/), [twitter thread](https://twitter.com/tomiwa1a/status/1531628638470230021))
+1.  Built a multi-chain NFT platform called [Arthouse](https://art.atila.ca/), for deploying NFTs to any EVM-compatible chain ([github](https://github.com/atilatech/arthouse), [made a tutorial about how I built it](https://atila.ca/blog/tomiwa/how-to-build-a-multi-chain-nft-marketplace-on-ethereum-polygon-and-binance-smart-chain-using-solidity-react-hardhat-and-ethersjs/), [twitter thread](https://twitter.com/tomiwa1a/status/1482556249883365376))
     
 
     1.  Got it [personally reviewed by the original ERC-721 author](https://www.youtube.com/watch?v=A_wVSSXXGc8&t=1356s)
