@@ -5,7 +5,7 @@ A list of things I’ve done in the crypto and web3 space.
 
 ## Highlights
 
-1.  Built a multi-chain NFT platform called [Arthouse](https://art.atila.ca/), for deploying NFTs to any EVM-compatible chain ([github](https://github.com/atilatech/arthouse), [made a tutorial about how I built it](https://atila.ca/blog/tomiwa/how-to-build-a-multi-chain-nft-marketplace-on-ethereum-polygon-and-binance-smart-chain-using-solidity-react-hardhat-and-ethersjs/), [twitter thread](https://twitter.com/tomiwa1a/status/1482556249883365376))
+1.  Built a multi-chain NFT platform called [Arthouse](https://art.atila.ca/), for deploying NFTs to any EVM-compatible chain ([github](https://github.com/atilatech/arthouse), [made a tutorial about how I built it](https://atila.ca/blog/tomiwa/how-to-build-a-multi-chain-nft-marketplace-on-ethereum-polygon-and-binance-smart-chain-using-solidity-react-hardhat-and-ethersjs/), [twitter thread](https://twitter.com/tomiwa1a/status/1531628638470230021))
     
 
     1.  Got it [personally reviewed by the original ERC-721 author](https://www.youtube.com/watch?v=A_wVSSXXGc8&t=1356s)
@@ -17,7 +17,7 @@ A list of things I’ve done in the crypto and web3 space.
     
 5.  [Organized a crypto meetup in Toronto with over 150 attendees](https://www.linkedin.com/posts/tademidun_desci-activity-6964938155292585984-YwQ4?utm_source=share&utm_medium=member_desktop) at Wealthsimple’s office. Got companies like Wealthsimple and Hedera as sponsors. ([Youtube video](https://www.youtube.com/watch?v=G2xB4u5DNmY), [TikTok summary](https://www.tiktok.com/@atila.tech/video/7143019159142632710))
     
-6.  Predicted the problems with Solana, FTX and Alameda in January of 2022, 11 months before the collapse ([essay](https://atila.ca/blog/tomiwa/solanas-many-red-flags), [twitter thread](https://www.youtube.com/watch?v=9LxKs1u21r8), [video](https://www.youtube.com/watch?v=9LxKs1u21r8))
+6.  Predicted the problems with Solana, FTX and Alameda in January of 2022, 11 months before the collapse ([essay](https://atila.ca/blog/tomiwa/solanas-many-red-flags), [twitter thread](https://twitter.com/tomiwa1a/status/1482556249883365376), [video](https://www.youtube.com/watch?v=9LxKs1u21r8))
     
 
   
